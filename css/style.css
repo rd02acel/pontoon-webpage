@@ -4,3 +4,10 @@ body {
     background-repeat: no-repeat;
     /* background-color: #cccccc; */
    }
+
+
+#CTA:hover {
+    background-color: white !important;
+    color: #034442 !important;
+    box-shadow: 5px 5px 2px lightblue;
+}
